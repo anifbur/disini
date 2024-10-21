@@ -14,13 +14,8 @@ public class FungsiNilai {
             return "E";
         }
     }
-    public static void InputNilai(){
-        Scanner sc = new Scanner(System.in);
 
-        System.out.println("Masukan Nilai: ");
-        int nilai = sc.nextInt();
-        String grade = konversi(nilai);
-        System.out.println("Nilai: "+ nilai +  ", Grade: " +grade);
+    test
     
 }
 public static void inputNilai() {
